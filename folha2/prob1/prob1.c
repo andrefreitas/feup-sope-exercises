@@ -1,5 +1,6 @@
 #include <termios.h>
 #include <stdio.h>
+#include <unistd.h>
 #define MAX_LENGTH 10
 int main(){
 	
@@ -13,21 +14,22 @@ int main(){
 	newterm=oldterm;
 	
 	//(2) disable echo
-	newterm.c_lflag &= ~ECHO;
+	newterm.c_lflag &= ~(ECHO | ECHOE | ECHOK | ECHONL | ICANON); 
 	
 	//(3) request password
-	printf("Enter password: ");
+	write(STDOUT_FILENO,"Enter password: ",16);
 
 	//(4) update stdin settings to disable echo
 	tcsetattr(fileno(stdin),TCSAFLUSH,&newterm);
 
 	//(5) get password
 	do{
-		c=fgetc(stdin);
+		read(STDIN_FILENO,&c,1);
 		password[i]=c;
-		fputc('*',stdout);
+                //write(fileno(stdout),'*',1); doesn't work
+		write(STDOUT_FILENO,"*",1);
 		i++;
-	}while(c!='\n');
+	}while(c!='\n' & i<MAX_LENGTH);
 	password[i]='\0';
 	
 	//(6) restore terminal settings
