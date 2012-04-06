@@ -1,0 +1,112 @@
+..:
+total 48
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 .
+drwxr-xr-x  8 andre andre 4096 2012-04-06 14:14 ..
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 prob1
+drwxrwxr-x  2 andre andre 4096 2012-04-06 16:31 prob10
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 prob2
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 prob3
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 prob4
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 prob5
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 prob6
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 prob7
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 prob8
+drwxrwxr-x  2 andre andre 4096 2012-04-06 15:34 prob9
+
+../prob1:
+total 24
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 8008 2012-04-06 14:14 prob1a
+-rw-rw-r--  1 andre andre  501 2012-04-06 14:14 prob1a.c
+-rw-rw-r--  1 andre andre   39 2012-04-06 14:14 prob1b.txt
+
+../prob10:
+total 20
+drwxrwxr-x  2 andre andre 4096 2012-04-06 16:31 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre    0 2012-04-06 16:31 lol.txt
+-rwxrwxr-x  1 andre andre 8152 2012-04-06 16:30 prob10
+-rw-rw-r--  1 andre andre 1028 2012-04-06 16:27 prob10.c
+
+../prob2:
+total 44
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 7888 2012-04-06 14:14 prob2a
+-rw-rw-r--  1 andre andre  356 2012-04-06 14:14 prob2a.c
+-rwxrwxr-x  1 andre andre 7888 2012-04-06 14:14 prob2c
+-rw-rw-r--  1 andre andre  266 2012-04-06 14:14 prob2c.c
+-rwxrwxr-x  1 andre andre 7928 2012-04-06 14:14 prob2d
+-rw-rw-r--  1 andre andre  268 2012-04-06 14:14 prob2d.c
+
+../prob3:
+total 20
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 8016 2012-04-06 14:14 prob3
+-rw-rw-r--  1 andre andre  542 2012-04-06 14:14 prob3.c
+
+../prob4:
+total 32
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 8000 2012-04-06 14:14 prob4a
+-rw-rw-r--  1 andre andre  327 2012-04-06 14:14 prob4a.c
+-rwxrwxr-x  1 andre andre 7960 2012-04-06 14:14 prob4b
+-rw-rw-r--  1 andre andre  227 2012-04-06 14:14 prob4b.c
+
+../prob5:
+total 20
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 8000 2012-04-06 14:14 prob5
+-rw-rw-r--  1 andre andre  462 2012-04-06 14:14 prob5.c
+
+../prob6:
+total 48
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 8080 2012-04-06 14:14 prob6a
+-rw-rw-r--  1 andre andre  790 2012-04-06 14:14 prob6a.c
+-rw-rw-r--  1 andre andre  792 2012-04-06 14:14 prob6a.c~
+-rwxrwxr-x  1 andre andre 8120 2012-04-06 14:14 prob6b
+-rw-rw-r--  1 andre andre 1095 2012-04-06 14:14 prob6b.c
+-rwxrwxr-x  1 andre andre 8120 2012-04-06 14:14 prob6c
+-rw-rw-r--  1 andre andre 1097 2012-04-06 14:14 prob6c.c
+
+../prob7:
+total 20
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 7960 2012-04-06 14:14 prob7
+-rw-rw-r--  1 andre andre  302 2012-04-06 14:14 prob7.c
+
+../prob8:
+total 68
+drwxrwxr-x  2 andre andre 4096 2012-04-06 14:14 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 8000 2012-04-06 14:14 prob8a
+-rw-rw-r--  1 andre andre  517 2012-04-06 14:14 prob8a.c
+-rwxrwxr-x  1 andre andre 8000 2012-04-06 14:14 prob8b
+-rw-rw-r--  1 andre andre  521 2012-04-06 14:14 prob8b.c
+-rwxrwxr-x  1 andre andre 8000 2012-04-06 14:14 prob8c
+-rw-rw-r--  1 andre andre  535 2012-04-06 14:14 prob8c.c
+-rwxrwxr-x  1 andre andre 8000 2012-04-06 14:14 prob8d
+-rw-rw-r--  1 andre andre  539 2012-04-06 14:14 prob8d.c
+-rwxrwxr-x  1 andre andre 8000 2012-04-06 14:14 prob8e
+-rw-rw-r--  1 andre andre  545 2012-04-06 14:14 prob8e.c
+
+../prob9:
+total 40
+drwxrwxr-x  2 andre andre 4096 2012-04-06 15:34 .
+drwxrwxr-x 12 andre andre 4096 2012-04-06 15:37 ..
+-rwxrwxr-x  1 andre andre 8040 2012-04-06 15:31 prob9a
+-rw-rw-r--  1 andre andre  705 2012-04-06 15:34 prob9a.c
+-rw-rw-r--  1 andre andre  705 2012-04-06 15:34 prob9a.c~
+-rwxrwxr-x  1 andre andre 8040 2012-04-06 15:34 prob9b
+-rw-rw-r--  1 andre andre  923 2012-04-06 15:34 prob9b.c
+-rw-rw-r--  1 andre andre  926 2012-04-06 15:33 prob9b.c~
+My child is going to execute command "ls -laR .."
+The child exit code was: 0
+Child exited normally
